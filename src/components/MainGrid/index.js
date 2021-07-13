@@ -1,4 +1,3 @@
-import { Main } from 'next/document'
 import styled from 'styled-components'
 
 const MainGrid = styled.main`

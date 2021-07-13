@@ -1,7 +1,7 @@
-import Box from './src/components/Box'
-import MainGrid from './src/components/MainGrid'
-import { AlurakutMenu, OrkutNostalgicIconSet } from './src/lib/AluraCommons';
-import { ProfileRelationsBoxWrapper } from './src/components/PorfileRelationsBoxWrapper';
+import MainGrid from '../src/components/MainGrid'
+import Box from '../src/components/Box'
+import { AlurakutMenu, OrkutNostalgicIconSet } from '../src/lib/AlurakutCommons';
+import { ProfileRelationsBoxWrapper } from '../src/components/PorfileRelationsBoxWrapper';
 
 
 function PorfileSidebar(githubUser) {
